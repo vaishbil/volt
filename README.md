@@ -8,7 +8,7 @@ Built for the **Vibe2Ship Hackathon** (Coding Ninjas x Google for Developers)
 ---
 
 ## Live Demo
-[link coming soon]
+[https://volt-839071485135.asia-southeast1.run.app]
 
 ---
 
