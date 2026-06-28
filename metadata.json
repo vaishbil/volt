@@ -1,0 +1,6 @@
+{
+  "name": "Volt",
+  "description": "An AI productivity companion and your last-minute life saver.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
