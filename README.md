@@ -12,7 +12,7 @@ Built for the **Vibe2Ship Hackathon** (Coding Ninjas x Google for Developers)
 
 ## Documentation
 - [View Full Documentation (Google Doc)](https://docs.google.com/document/d/1GFiZiISXpf4or73bH9lXkrDvzn-KT61nESqlWv-YsGg/edit?usp=sharing)
-- [PDF](https://github.com/vaishbil/volt/blob/main/Volt-vibe2ship-doc.pdf)
+- [Volt Doc](https://github.com/vaishbil/volt/blob/main/volt-vibe2ship.pdf)
 
 ---
 
