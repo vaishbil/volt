@@ -72,7 +72,7 @@ Built for the **Vibe2Ship Hackathon** (Coding Ninjas x Google for Developers)
 ## Project Structure
  
 ```
-clutch/
+volt/
 ├── src/                        # React frontend source
 ├── server.ts                   # Express backend (API routes + Vite middleware)
 ├── index.html                  # HTML entry point
