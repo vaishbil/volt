@@ -1,7 +1,9 @@
 # Volt
 ### Your Last-Minute Life Saver
 
-Volt is an AI-powered productivity companion built for people who work best under pressure. Unlike traditional task managers that passively remind you of deadlines, Volt proactively thinks, plans, and acts on your behalf — helping you make better decisions and complete tasks before deadlines are missed.
+## About The Project
+
+Most productivity tools remind you that something is due — and stop there. Volt goes further. It's an AI-powered companion that prioritizes your tasks, plans your day around your real calendar, tracks your habits, and takes action on your behalf — built for the moments when deadlines are close and you need more than a notification.
 
 Built for the **Vibe2Ship Hackathon** (Coding Ninjas x Google for Developers)
 
@@ -85,20 +87,39 @@ clutch/
 
 ## Tech Stack
 
-| Technology | Usage |
-|------------|-------|
-| React + Vite + TypeScript | Frontend framework |
-| Tailwind CSS | Styling |
-| Google Gemini API | All AI features |
-| Google Calendar API | Two-way calendar sync |
-| Firebase OAuth | Google authentication |
-| Google Cloud Run | Deployment |
-| Web Audio API | Ambient soundscapes |
-| localStorage | Client-side data storage |
-| Space Grotesk + DM Sans | Typography |
-| Lucide React | Icons |
+**Frontend**
+React 19 · TypeScript 5.8 · Vite 6 · Tailwind CSS 4
+
+**AI & Backend**
+Google Gemini API (@google/genai) · Node.js · Express.js
+
+**Animation & Interaction**
+Framer Motion · dnd-kit · Canvas Confetti
+
+**Audio**
+Web Audio API · HTML5 Audio
+
+**Data & Auth**
+localStorage (offline-first) · Firebase Authentication
+
+**Deployment**
+Google Cloud Run · Google AI Studio
 
 ---
+
+## Google Technologies Used
+
+| Technology | Purpose |
+|------------|---------|
+| Gemini API | Task prioritization, day planning, chat assistant, habit nudges |
+| Google Calendar API | Two-way calendar sync and event export |
+| Firebase Authentication | Secure Google OAuth for Calendar access |
+| Google AI Studio | Development and deployment platform |
+| Google Cloud Run | Production hosting |
+| Google Fonts | Space Grotesk, DM Sans typography |
+
+---
+
 
 ## Prerequisites
  
@@ -134,6 +155,8 @@ To deploy your own instance:
 
 ---
 
-## Built By
+## Author
 
-**Vaishali** — [@vaishbil](https://github.com/vaishbil)
+**Vaishali Wankhede** — [@vaishbil](https://github.com/vaishbil)
+
+Built for Vibe2Ship 2026
